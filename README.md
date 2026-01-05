@@ -89,13 +89,3 @@ dominos-microservices/
 ## Author
 **Rajesh Patil**  
 - GitHub: [RajeshPatil2](https://github.com/RajeshPatil2)
-
----
-
-## Notes for HR
-- This is a **Microservices-based Domino’s ordering system**  
-- Easy to understand **service-by-service functionality**  
-- Includes **Email, Payment, Delivery & Notification** workflows  
-- All services are **independently deployable**  
-
----
